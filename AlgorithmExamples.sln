@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaktorialCalculation", "Fak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExponentialFonksiyon", "ExponentialFonksiyon\ExponentialFonksiyon.csproj", "{35EA37D8-468D-4E51-8FB1-58E7692FABA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectNumber", "PerfectNumber\PerfectNumber.csproj", "{CEDD74C6-9387-4C90-9DE4-21B13CF0B3FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{2728683D-0A66-4C53-A351-0B65020009E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{35EA37D8-468D-4E51-8FB1-58E7692FABA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35EA37D8-468D-4E51-8FB1-58E7692FABA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35EA37D8-468D-4E51-8FB1-58E7692FABA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDD74C6-9387-4C90-9DE4-21B13CF0B3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDD74C6-9387-4C90-9DE4-21B13CF0B3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDD74C6-9387-4C90-9DE4-21B13CF0B3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDD74C6-9387-4C90-9DE4-21B13CF0B3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2728683D-0A66-4C53-A351-0B65020009E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2728683D-0A66-4C53-A351-0B65020009E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2728683D-0A66-4C53-A351-0B65020009E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2728683D-0A66-4C53-A351-0B65020009E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
